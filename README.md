@@ -1,3 +1,6 @@
+# ERD
+!["Final Project ERD"](https://github.com/desireemendes/finals-planning/blob/master/images/spot-erd.jpg?raw=true)
+
 # Wireframes
 
 ## Landing Page
