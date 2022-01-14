@@ -7,7 +7,7 @@
 !["Home Page"](https://github.com/desireemendes/finals-planning/blob/master/images/2.jpg?raw=true)
 
 ## Sign Up Page
-!["Sign up"](https://github.com/desireemendes/finals-planning/blob/master/images/1.jpg?raw=true)
+!["Sign up"](https://github.com/desireemendes/finals-planning/blob/master/images/3.jpg?raw=true)
 
 ## Login Page
 !["Login"](https://github.com/desireemendes/finals-planning/blob/master/images/4.jpg?raw=true)
